@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandableGridView">
+        <attr name="group_clickable" format="boolean" />
+        <attr name="overwrite_measure" format="boolean" />
+        <attr name="vertical_spacing" format="dimension" />
+        <attr name="horizontal_spacing" format="dimension" />
+        <attr name="columns_number" format="integer" />
+    </declare-styleable>
+</resources>
